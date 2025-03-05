@@ -20,7 +20,3 @@ This is a Deep learning project using Flickr8k dataset for CSE 475: Machine Lear
 
 ## VISUAL REPRESENTATION OF MODEL
 ![Visual Representation](model.png)
-
-## YOUTUBE DEMONSTRATION
-
-[![Youtube demo](Demonstration)](https://www.youtube.com/watch?v=yWAhC95n5RM)
